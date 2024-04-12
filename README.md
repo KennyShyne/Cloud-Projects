@@ -1,5 +1,5 @@
 # Cloud-Projects
-# Network-Engineering-Projects
+
 <h2>I'm a Cisco Certified Engineer, I hold the CCNA 200 - 301 certificate. Below is what i learned and projects i have created</h2> 
 
 <h2>Lab I Created With Packet Tracer</h2>
